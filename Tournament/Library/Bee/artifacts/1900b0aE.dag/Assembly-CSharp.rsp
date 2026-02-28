@@ -548,6 +548,7 @@
 "Assets/Prehubs/Standard Assets/Vehicles/Car/Scripts/SkidTrail.cs"
 "Assets/Prehubs/Standard Assets/Vehicles/Car/Scripts/Suspension.cs"
 "Assets/Prehubs/Standard Assets/Vehicles/Car/Scripts/WheelEffects.cs"
+"Assets/Scripts/Player.cs"
 "Assets/Textures and materials/Phoenix3D/Demo/Scripts/MaterialSwithcer.cs"
 -langversion:9.0
 /deterministic
